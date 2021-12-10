@@ -1,3 +1,4 @@
+# amqp_training
 # Template for Maven based exercises
 
 [![build workflow](https://github.com/lernejo/maven_starter_template/actions/workflows/build.yml/badge.svg)](https://github.com/lernejo/maven_starter_template/actions)
